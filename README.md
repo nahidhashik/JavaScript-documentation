@@ -65,6 +65,60 @@ As mentioned before, Javascript is one of the most widely used programming langu
 
 This list goes on, there are various areas where millions of software developers are happily using Javascript to develop great websites and others softwares.
 
+# Js Math Library
+
+**Math.PI**
+
+Ratio of a circle's circumference to its diameter; approximately 3.14159.
+
+**Math.abs()**
+
+Returns the absolute value of x.
+
+
+**Math.ceil()**
+
+Returns the smallest integer greater than or equal to x.
+
+**Math.exp()**
+
+Returns ex, where x is the argument, and e is Euler's number (2.718…, the base of the natural logarithm).
+
+**Math.floor()**
+
+Returns the largest integer less than or equal to x.
+
+**Math.log()**
+
+Returns the natural logarithm (㏒e; also, ㏑) of x.
+
+**Math.max()**
+
+Returns the largest of zero or more numbers.
+
+**Math.min()**
+
+Returns the smallest of zero or more numbers.
+
+**Math.pow()**
+
+Returns base x to the exponent power y (that is, xy).
+
+**Math.random()**
+
+Returns a pseudo-random number between 0 and 1.
+
+**Math.round()**
+
+Returns the value of the number x rounded to the nearest integer.
+
+**Math.sqrt()**
+
+Returns the positive square root of x.
+
+
+
+
 # Practice Problems
 
 * Even & Odd numbers finding
