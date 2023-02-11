@@ -18,6 +18,10 @@ JavaScript is a lightweight, interpreted programming language. It is designed fo
 
 * Unit convert inch to feet and miles to kilometer with function
 
+* Convert celsius to fahrenheit and fahrenheit to celsius with function
+
+* Grade calculation(Example-90=A+, 80=B, 77=B-, 60=P)
+
 
 # License
 [MIT LICENSE.md](https://github.com/nahidhashik/git-cheatsheet-for-github/blob/main/LICENSE.md)
