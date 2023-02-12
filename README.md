@@ -67,6 +67,27 @@ As mentioned before, Javascript is one of the most widely used programming langu
 
 This list goes on, there are various areas where millions of software developers are happily using Javascript to develop great websites and others softwares.
 
+# Js IDE
+
+* Visual Studio: an industry-standard software
+
+* Visual Studio Code. A free version: lighter on the features; high in value
+
+* Webstorm. A premium JavaScript development environment
+
+* Atom. A strong contender for the best free JavaScript IDE
+
+* Sublime Text. Freemium entry into the text editor market
+
+* Eclipse. An IDE with a good work environment feature
+
+* NetBeans. A powerful code monitoring tool
+
+
+
+
+
+
 # Js Math Library
 
 **Math.PI**
