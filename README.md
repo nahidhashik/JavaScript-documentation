@@ -144,6 +144,18 @@ Returns the positive square root of x.
 
 **string**
 
+**function**
+
+**var**
+**console.log()**
+**loop(for, while)**
+**conditional(If-else)**
+**switch**
+**array**
+**for of**
+**indexof**
+**array.length**
+****
 
 
 
