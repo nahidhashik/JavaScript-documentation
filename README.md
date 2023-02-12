@@ -140,6 +140,11 @@ Returns the value of the number x rounded to the nearest integer.
 Returns the positive square root of x.
 
 
+# Js Variable
+
+**string**
+
+
 
 
 # Practice Problems
