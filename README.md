@@ -300,6 +300,8 @@ console.log(result);
 
 * Grade calculation(Example-90=A+, 80=B, 77=B-, 60=P)
 
+# Integrate javascript
+
 
 # License
 [MIT LICENSE.md](https://github.com/nahidhashik/git-cheatsheet-for-github/blob/main/LICENSE.md)
