@@ -196,6 +196,33 @@ for (var i = 0; i < ana.length; i++)
     Price of 1 Jilapi – 15 Tk
 
  Now if he orders different numbers of Singara, Samucha, and Jilapi, then the total cost will be returned.
+ 
+```
+
+
+function pandaCost(singara, somucha, jilapi)
+{
+
+    var singraPrice = 7 * singara;
+    var somuchaPrice = 10 * somucha;
+    var jilapiPrice = 15 * jilapi;
+
+    var total = singraPrice + somuchaPrice + jilapiPrice;
+
+    return total;
+}
+
+var singara = 5;
+somucha = 5;
+jilapi = 10;
+
+
+var result = pandaCost(singara, somucha, jilapi);
+
+console.log(result);
+
+
+```
 
 
 * [ Function name should be picnicBudget]: The number of people who will go to the picnic will be taken as a parameter.
@@ -207,7 +234,47 @@ for (var i = 0; i < ana.length; i++)
 
 
 
+```
 
+
+function picnicBudget(members)
+{
+
+    if (members < 100)
+    {
+        var totalCost = members * 5000;
+        
+        return totalCost;
+    }
+    
+    else if (members > 100 && members <= 200)
+    {
+        var lessThanHundread = members - 100;
+        var costLessThanHundread = lessThanHundread * 4000;
+        var greaterThanHundread = 100 * 5000;
+        var totalCost = costLessThanHundread + greaterThanHundread;
+        return totalCost;
+
+    }
+    
+    else
+    {
+        var firstHundread = 100 * 5000;
+        var restOfTheHundread = 100 * 4000;
+        var lastPeople = (members - 200) * 3000;
+        var totalCost = firstHundread + restOfTheHundread+lastPeople;
+        return totalCost;
+
+
+        }
+}
+
+var members = 250;
+var result = picnicBudget(members);
+console.log(result);
+
+
+```
 
 
 
