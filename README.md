@@ -165,7 +165,25 @@ Returns the positive square root of x.
 * The function should be named anaToVori : A function that takes ana (ana) as a parameter. Then convert it to full and return the number of values. Will just return the number
 
 
+```
 
+
+function anaToVori(ana)
+{
+    var vori = (ana * 1) / 16; 
+    return vori;
+}
+var ana = [1, 2, 5, 7, 9, 10]
+for (var i = 0; i < ana.length; i++)
+{
+    var anaa = ana[i];
+
+    var result = anaToVori(anaa);
+    console.log(result);
+}
+
+
+```
 
 
 
