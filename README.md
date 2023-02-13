@@ -162,6 +162,41 @@ Returns the positive square root of x.
 
 # Practice Problems
 
+* The function should be named anaToVori : A function that takes ana (ana) as a parameter. Then convert it to full and return the number of values. Will just return the number
+
+
+
+
+* [Function name should be pandaCost]: Three parameters are required. Will watch the video.
+
+Price of 1 Singara – 7 Tk
+
+Price of 1 Samucha – 10 Tk
+
+Price of 1 Jilapi – 15 Tk
+
+Now if he orders different numbers of Singara, Samucha, and Jilapi, then the total cost will be returned.
+
+
+* [ Function name should be picnicBudget]: The number of people who will go to the picnic will be taken as a parameter.
+
+If 100 or less then it will cost Rs 5000 each.
+If more than 100 but less than or equal to 200, then 5000 should be paid for each of the first 100 people. And those who have more than 100 (ie from number 101) have to pay 4000 rupees for each of them.
+And if more than 200, then 5000 rupees should be paid for each of the first 100 people. And those who have more than 100 have to pay 4000 rupees for each of them. Those who have more than 200 (ie from number 201) have to pay 3000 rupees for each.
+Now I will give a parameter. It can be any number. Based on that number, you return from the function how much the picnic budget should be. The number of input parameters can be less than 100. May be between 100 and 200. It can be more than 200. So all cases will be tested well.
+
+
+*
+
+
+
+
+
+
+
+
+
+
 * Even & Odd numbers finding
 
 * Factorial with for loop and Function
